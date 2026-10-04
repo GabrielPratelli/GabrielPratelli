@@ -15,6 +15,6 @@ I'm currently focused on embedded systems, fault tolerance, and hardware-firmwar
 Fun Facts:
 - I use Arch btw (and Fedora, Ubuntu)
 - I spend my free time soldering and prototyping random boards
-- Forever DM form my table
+- Forever Dungeon Master
 - Hobbies: embedded, retro hardware, building things
 
