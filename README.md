@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**GabrielPratelli/GabrielPratelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Gabriel](https://www.linkedin.com/in/gabriel-pratelli/), a junior embedded engineer based in Italy.
 
-Here are some ideas to get you started:
+I love the interaction between software and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll prototype it and test it on the bench.
+
+My main tech stack is C, C++, Assembly for bare-metal firmware, and FreeRTOS. My favorite tools are my trusty VS-Codium setup, LTSpice, oscilloscope, logic analyzer, and Arch Linux.
+
+I've got a bunch of pinned projects, but my favorite is the [Fault-Tolerant Embedded Supervision System](https://github.com/GabrielPratelli) my thesis project with TMR architecture, 2-of-3 voting and fault injection on ESP32 + Arduino Uno.
+
+I'm currently focused on embedded systems, fault tolerance, and hardware-firmware co-design.
+
+Fun Facts:
+- I use Arch btw (and Fedora, Ubuntu)
+- I spend my free time soldering and prototyping random boards
+- I play D&D
+- Hobbies: embedded, retro hardware, building things
+
